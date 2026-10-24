@@ -1,0 +1,20 @@
+{
+  "accessed_at": "2026-10-23T18:39:15.935633+00:00",
+  "station": "KSM00047108",
+  "station_name": "SEOUL CITY",
+  "station_catalog": "https://www.ncei.noaa.gov/pub/data/ghcn/daily/ghcnd-stations.txt",
+  "files": [
+    {
+      "file": "KSM00047108.dly",
+      "url": "https://www.ncei.noaa.gov/pub/data/ghcn/daily/all/KSM00047108.dly",
+      "bytes": 738720,
+      "sha256": "aaf206bc2d62d3349c039917e869314d628c1b2879bab80d3bf5b839e9e1c813"
+    },
+    {
+      "file": "ghcn-readme.txt",
+      "url": "https://www.ncei.noaa.gov/pub/data/ghcn/daily/readme.txt",
+      "bytes": 29587,
+      "sha256": "0e4e6f0e6947cf1add884c328a01760f31c56ef5fb86b85ed57dd5dc4c4aeaa6"
+    }
+  ]
+}
