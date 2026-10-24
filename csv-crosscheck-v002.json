@@ -1,0 +1,345 @@
+{
+  "status": "PASS",
+  "period_audits": 48,
+  "calendar_day_checks": 4416,
+  "csv_sha256": "e80560a93a9cba821ce523da28a768f2bbf8b2fe19ea096af69b06ab80f9a868",
+  "limits": "Alternate NOAA serialization; not independent observations or independent reviewer.",
+  "results": [
+    {
+      "year": 2010,
+      "threshold_tenths_c": 300,
+      "usable": 92,
+      "hot_lower": 40,
+      "hot_upper": 40
+    },
+    {
+      "year": 2011,
+      "threshold_tenths_c": 300,
+      "usable": 91,
+      "hot_lower": 27,
+      "hot_upper": 28
+    },
+    {
+      "year": 2012,
+      "threshold_tenths_c": 300,
+      "usable": 92,
+      "hot_lower": 41,
+      "hot_upper": 41
+    },
+    {
+      "year": 2013,
+      "threshold_tenths_c": 300,
+      "usable": 91,
+      "hot_lower": 44,
+      "hot_upper": 45
+    },
+    {
+      "year": 2014,
+      "threshold_tenths_c": 300,
+      "usable": 92,
+      "hot_lower": 34,
+      "hot_upper": 34
+    },
+    {
+      "year": 2015,
+      "threshold_tenths_c": 300,
+      "usable": 90,
+      "hot_lower": 49,
+      "hot_upper": 51
+    },
+    {
+      "year": 2016,
+      "threshold_tenths_c": 300,
+      "usable": 92,
+      "hot_lower": 50,
+      "hot_upper": 50
+    },
+    {
+      "year": 2017,
+      "threshold_tenths_c": 300,
+      "usable": 1,
+      "hot_lower": 1,
+      "hot_upper": 92
+    },
+    {
+      "year": 2018,
+      "threshold_tenths_c": 300,
+      "usable": 4,
+      "hot_lower": 1,
+      "hot_upper": 89
+    },
+    {
+      "year": 2019,
+      "threshold_tenths_c": 300,
+      "usable": 0,
+      "hot_lower": 0,
+      "hot_upper": 92
+    },
+    {
+      "year": 2020,
+      "threshold_tenths_c": 300,
+      "usable": 0,
+      "hot_lower": 0,
+      "hot_upper": 92
+    },
+    {
+      "year": 2021,
+      "threshold_tenths_c": 300,
+      "usable": 2,
+      "hot_lower": 1,
+      "hot_upper": 91
+    },
+    {
+      "year": 2022,
+      "threshold_tenths_c": 300,
+      "usable": 84,
+      "hot_lower": 37,
+      "hot_upper": 45
+    },
+    {
+      "year": 2023,
+      "threshold_tenths_c": 300,
+      "usable": 8,
+      "hot_lower": 3,
+      "hot_upper": 87
+    },
+    {
+      "year": 2024,
+      "threshold_tenths_c": 300,
+      "usable": 0,
+      "hot_lower": 0,
+      "hot_upper": 92
+    },
+    {
+      "year": 2025,
+      "threshold_tenths_c": 300,
+      "usable": 3,
+      "hot_lower": 2,
+      "hot_upper": 91
+    },
+    {
+      "year": 2010,
+      "threshold_tenths_c": 320,
+      "usable": 92,
+      "hot_lower": 11,
+      "hot_upper": 11
+    },
+    {
+      "year": 2011,
+      "threshold_tenths_c": 320,
+      "usable": 91,
+      "hot_lower": 13,
+      "hot_upper": 14
+    },
+    {
+      "year": 2012,
+      "threshold_tenths_c": 320,
+      "usable": 92,
+      "hot_lower": 25,
+      "hot_upper": 25
+    },
+    {
+      "year": 2013,
+      "threshold_tenths_c": 320,
+      "usable": 91,
+      "hot_lower": 16,
+      "hot_upper": 17
+    },
+    {
+      "year": 2014,
+      "threshold_tenths_c": 320,
+      "usable": 92,
+      "hot_lower": 13,
+      "hot_upper": 13
+    },
+    {
+      "year": 2015,
+      "threshold_tenths_c": 320,
+      "usable": 90,
+      "hot_lower": 17,
+      "hot_upper": 19
+    },
+    {
+      "year": 2016,
+      "threshold_tenths_c": 320,
+      "usable": 92,
+      "hot_lower": 35,
+      "hot_upper": 35
+    },
+    {
+      "year": 2017,
+      "threshold_tenths_c": 320,
+      "usable": 1,
+      "hot_lower": 0,
+      "hot_upper": 91
+    },
+    {
+      "year": 2018,
+      "threshold_tenths_c": 320,
+      "usable": 4,
+      "hot_lower": 0,
+      "hot_upper": 88
+    },
+    {
+      "year": 2019,
+      "threshold_tenths_c": 320,
+      "usable": 0,
+      "hot_lower": 0,
+      "hot_upper": 92
+    },
+    {
+      "year": 2020,
+      "threshold_tenths_c": 320,
+      "usable": 0,
+      "hot_lower": 0,
+      "hot_upper": 92
+    },
+    {
+      "year": 2021,
+      "threshold_tenths_c": 320,
+      "usable": 2,
+      "hot_lower": 0,
+      "hot_upper": 90
+    },
+    {
+      "year": 2022,
+      "threshold_tenths_c": 320,
+      "usable": 84,
+      "hot_lower": 20,
+      "hot_upper": 28
+    },
+    {
+      "year": 2023,
+      "threshold_tenths_c": 320,
+      "usable": 8,
+      "hot_lower": 2,
+      "hot_upper": 86
+    },
+    {
+      "year": 2024,
+      "threshold_tenths_c": 320,
+      "usable": 0,
+      "hot_lower": 0,
+      "hot_upper": 92
+    },
+    {
+      "year": 2025,
+      "threshold_tenths_c": 320,
+      "usable": 3,
+      "hot_lower": 1,
+      "hot_upper": 90
+    },
+    {
+      "year": 2010,
+      "threshold_tenths_c": 350,
+      "usable": 92,
+      "hot_lower": 0,
+      "hot_upper": 0
+    },
+    {
+      "year": 2011,
+      "threshold_tenths_c": 350,
+      "usable": 91,
+      "hot_lower": 0,
+      "hot_upper": 1
+    },
+    {
+      "year": 2012,
+      "threshold_tenths_c": 350,
+      "usable": 92,
+      "hot_lower": 7,
+      "hot_upper": 7
+    },
+    {
+      "year": 2013,
+      "threshold_tenths_c": 350,
+      "usable": 91,
+      "hot_lower": 0,
+      "hot_upper": 1
+    },
+    {
+      "year": 2014,
+      "threshold_tenths_c": 350,
+      "usable": 92,
+      "hot_lower": 1,
+      "hot_upper": 1
+    },
+    {
+      "year": 2015,
+      "threshold_tenths_c": 350,
+      "usable": 90,
+      "hot_lower": 1,
+      "hot_upper": 3
+    },
+    {
+      "year": 2016,
+      "threshold_tenths_c": 350,
+      "usable": 92,
+      "hot_lower": 9,
+      "hot_upper": 9
+    },
+    {
+      "year": 2017,
+      "threshold_tenths_c": 350,
+      "usable": 1,
+      "hot_lower": 0,
+      "hot_upper": 91
+    },
+    {
+      "year": 2018,
+      "threshold_tenths_c": 350,
+      "usable": 4,
+      "hot_lower": 0,
+      "hot_upper": 88
+    },
+    {
+      "year": 2019,
+      "threshold_tenths_c": 350,
+      "usable": 0,
+      "hot_lower": 0,
+      "hot_upper": 92
+    },
+    {
+      "year": 2020,
+      "threshold_tenths_c": 350,
+      "usable": 0,
+      "hot_lower": 0,
+      "hot_upper": 92
+    },
+    {
+      "year": 2021,
+      "threshold_tenths_c": 350,
+      "usable": 2,
+      "hot_lower": 0,
+      "hot_upper": 90
+    },
+    {
+      "year": 2022,
+      "threshold_tenths_c": 350,
+      "usable": 84,
+      "hot_lower": 1,
+      "hot_upper": 9
+    },
+    {
+      "year": 2023,
+      "threshold_tenths_c": 350,
+      "usable": 8,
+      "hot_lower": 0,
+      "hot_upper": 84
+    },
+    {
+      "year": 2024,
+      "threshold_tenths_c": 350,
+      "usable": 0,
+      "hot_lower": 0,
+      "hot_upper": 92
+    },
+    {
+      "year": 2025,
+      "threshold_tenths_c": 350,
+      "usable": 3,
+      "hot_lower": 0,
+      "hot_upper": 89
+    }
+  ]
+}

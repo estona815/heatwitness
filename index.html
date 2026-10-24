@@ -1,0 +1,12 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>HeatWitness — climate data audit</title><link rel="stylesheet" href="style.css">
+<body><main><header><a href="./" class="brand">HeatWitness</a><button id="download" disabled>Download audit</button></header>
+<h1>Can the data support the claim?</h1><p class="intro">Compare hot-day counts without hiding missing observations.</p>
+<form id="controls"><label>Station<input value="SEOUL CITY" readonly aria-label="Station: Seoul City, fixed source"></label><label>Before<select id="before"></select></label><label>After<select id="after"></select></label><label>Threshold<select id="threshold"><option value="300">30°C</option><option value="320">32°C</option><option value="350">35°C</option></select></label></form>
+<section id="verdict" aria-live="polite"><h2 id="conclusion">Loading source data…</h2><p id="explanation"></p></section>
+<section class="periods"><article id="period-before"></article><article id="period-after"></article></section>
+<div class="legend"><span><i class="hot"></i>Observed hot</span><span><i class="below"></i>Observed below</span><span><i class="unknown"></i>Unknown</span><span>One tile = one calendar day, in date order.</span></div>
+<section class="change"><h2>Possible change</h2><strong id="difference">—</strong></section>
+<footer><p>Worst-case bounds, not confidence intervals. Two summers do not establish a climate trend.</p><a href="https://doi.org/10.7289/V5D21VHZ">NOAA GHCN-Daily · KSM00047108</a></footer>
+<details><summary>Inspect the evidence and limitations</summary><p>Thresholds are demonstration choices, not official heatwave definitions. Unknown means absent, missing, or quality-flagged values in this downloaded series. It does not establish that no observation exists elsewhere. One station cannot represent a city. The source hash identifies bytes, not measurement truth.</p><p>No runtime AI, blockchain, accounts or external API calls. Codex assisted development. This is a local research prototype.</p><p>Raw source SHA-256: <code id="source-hash"></code></p><div class="table-wrap"><table><thead><tr><th>Period</th><th>Expected days</th><th>Usable</th><th>Unknown</th><th>Hot-day range</th></tr></thead><tbody id="evidence"></tbody></table></div><a href="data/provenance.json">Download source provenance</a> · <a href="data/ghcn-readme.txt">NOAA format documentation</a></details>
+</main><script type="module" src="app.mjs"></script></body></html>
